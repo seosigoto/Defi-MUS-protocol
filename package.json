@@ -137,6 +137,7 @@
   ],
   "license": "AGPLv3",
   "dependencies": {
+    "git-change-date": "^1.0.2",
     "tmp-promise": "^3.0.2"
   }
 }

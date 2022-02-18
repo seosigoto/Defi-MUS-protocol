@@ -1,29 +1,4 @@
-```
-        .///.                .///.     //.            .//  `/////////////- 
-       `++:++`              .++:++`    :++`          `++:  `++:......---.` 
-      `/+: -+/`            `++- :+/`    /+/         `/+/   `++.            
-      /+/   :+/            /+:   /+/    `/+/        /+/`   `++.            
-  -::/++::`  /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.  
-  -:+++::-`  `/+:      --++/---`  `++-    .++-    -++.     `++/:::::::::.  
-   -++.       .++-      -++`       .++.    .++.  .++-      `++.            
-  .++-         -++.    .++.         -++.    -++``++-       `++.            
- `++:           :++`  .++-           :++`    :+//+:        `++:----------` 
- -/:             :/-  -/:             :/.     ://:         `/////////////- 
-```
 
-# Aave Protocol v2
-
-This repository contains the smart contracts source code and markets configuration for Aave Protocol V2. The repository uses Docker Compose and Hardhat as development enviroment for compilation, testing and deployment tasks.
-
-## What is Aave?
-
-Aave is a decentralized non-custodial liquidity markets protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
-
-## Documentation
-
-The documentation of Aave V2 is in the following [Aave V2 documentation](https://docs.aave.com/v2/-MJXUluJ2u1DiL-VU6MM) link. At the documentation you can learn more about the protocol, see the contract interfaces, integration guides and audits.
-
-For getting the latest contracts addresses, please check the [Deployed contracts](https://docs.aave.com/developers/deployed-contracts) page at the documentation to stay up to date.
 
 ## Connect with the community
 
